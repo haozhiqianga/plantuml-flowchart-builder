@@ -1,2 +1,2 @@
-# plantuml-flowchats-builder
-Tools to generate plantuml flowchats from java sources.
+# plantuml-flowchart-builder
+Tools to generate plantuml flowchart from java sources.
